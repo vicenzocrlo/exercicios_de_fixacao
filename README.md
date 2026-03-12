@@ -1,7 +1,15 @@
 # Primeira lista de exercícios de fixação em python das aulas de algoritimos
- Esta lista consiste em exercícios voltados para a fixação dos conteúdos de estruturas de decisões.
+ Esta lista consiste em exercícios voltados para a fixação dos conteúdos de estruturas de decisões, abordados nas aulas de algoritimos.
+
+- Operadores Relacionais
+- Operadores Lógicos
+- Estrutura if
+- Estrutura if else
+- Estrutura elif (else if)
+- Estruturas de Decisão Aninhadas
 
 ## Os tópicos dos exercícios foram:
+
 ### Exercícios Simples com if / if-else:
 1. Receba dois números e mostre qual é o maior.
 2. Solicite a idade do usuário e informe se é maior de idade.
